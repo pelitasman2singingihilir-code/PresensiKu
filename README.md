@@ -1,0 +1,2 @@
+# PresensiKu
+Aplikasi Absensi sekolah
